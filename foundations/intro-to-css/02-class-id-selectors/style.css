@@ -1,1 +1,6 @@
-/* Add CSS Styling */
+/* Add CSS Styling */ 
+/* odd numbered elements */
+.odd {
+    background-color: #D46B57;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
