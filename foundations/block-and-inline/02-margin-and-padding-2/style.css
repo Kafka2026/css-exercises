@@ -22,13 +22,9 @@ h1 {
   font-size: 16px;
 }
 
-.content,
-.button-container {
-  
-
-}
 
 button {
   background: white;
   padding: 8px 20px;
+  display: block;
 }
