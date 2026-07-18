@@ -15,10 +15,17 @@ body {
 .button-container {
   background: dodgerblue;
   padding: 8px;
+  margin: 8px auto;
 }
 
 h1 {
   font-size: 16px;
+}
+
+.content,
+.button-container {
+  
+
 }
 
 button {
