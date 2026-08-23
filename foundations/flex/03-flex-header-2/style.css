@@ -62,12 +62,7 @@ ul {
   gap: 16px;
 }
 
-.left {
-  display: flex;
-  gap: 16px;
-}
-
-.right {
+.left, .right {
   display: flex;
   gap: 16px;
 }
