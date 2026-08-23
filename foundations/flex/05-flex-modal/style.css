@@ -72,3 +72,12 @@ button.cancel {
 .modal {
   display: flex;
 }
+
+.header {
+  display: flex;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
