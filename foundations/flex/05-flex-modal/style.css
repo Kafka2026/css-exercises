@@ -71,6 +71,8 @@ button.cancel {
 /*CHANGES*/
 .modal {
   display: flex;
+  gap: 16px;
+  padding: 20px;
 }
 
 .container {
@@ -83,6 +85,4 @@ button.cancel {
   justify-content: space-between;
   font-size: 20px;
   font-weight: bold;
-
 }
-
