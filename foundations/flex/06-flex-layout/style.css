@@ -26,10 +26,26 @@ input {
 }
 
 /*CHANGES*/
+body {
+  display: flex;
+  flex-direction: column;
+}
+
 ul {
   list-style-type: none;
 }
 
 a {
   text-decoration: none;
+  color: gray;
+}
+
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.footer {
+  background: #eeeeee;
 }
