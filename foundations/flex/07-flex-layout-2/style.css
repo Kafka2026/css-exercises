@@ -53,12 +53,20 @@ body {
 
 .cards {
   display: flex;
-  flex-direction: row;
   padding: 48px;
+  flex-wrap: wrap;
+  gap: 32px;
+}
+
+.card {
+  width: 300px;
+  padding: 16px;
 }
 
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 a {
